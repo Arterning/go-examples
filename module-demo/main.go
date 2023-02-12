@@ -7,10 +7,10 @@ package main
 
 //T 包的别名
 import (
-	"demo/calc"
-	_ "demo/test"
-	T "demo/tools"
 	"fmt"
+	"module-demo/calc"
+	_ "module-demo/test"
+	T "module-demo/tools"
 
 	"github.com/shopspring/decimal"
 )
